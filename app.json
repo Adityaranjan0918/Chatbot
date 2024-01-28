@@ -15,6 +15,9 @@
             "plan": "heroku-postgresql"
         }
     ]
+    {
+}
+{
 }
 
 ChatBot/app.json at main · adityaranjan0918/AdixChatBot
